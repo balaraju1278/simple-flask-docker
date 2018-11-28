@@ -1,7 +1,7 @@
 ##### Simple Falsk app with Docker
 
 ##### What is Falsk
-#######Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.Flask is also easy to get started with as a beginner because there is little boilerplate code for getting a simple app up and running.
+######Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.Flask is also easy to get started with as a beginner because there is little boilerplate code for getting a simple app up and running.
 
 ######For example, simple application web application with Flask return home page with Welcome To Sample Flask with Docker:
 
